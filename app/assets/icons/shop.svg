@@ -1,0 +1,27 @@
+<svg viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_195_76)">
+</g>
+<rect x="1.5" y="6.5" width="15" height="9" rx="0.5" stroke="currentColor"/>
+<path d="M1.5 6.5H4.5V7C4.5 7.82843 3.82843 8.5 3 8.5C2.17157 8.5 1.5 7.82843 1.5 7V6.5Z" stroke="currentColor"/>
+<path d="M5.5 6.5H8.5V7C8.5 7.82843 7.82843 8.5 7 8.5C6.17157 8.5 5.5 7.82843 5.5 7V6.5Z" stroke="currentColor"/>
+<path d="M9.5 6.5H12.5V7C12.5 7.82843 11.8284 8.5 11 8.5C10.1716 8.5 9.5 7.82843 9.5 7V6.5Z" stroke="currentColor"/>
+<path d="M13.5 6.5H16.5V7C16.5 7.82843 15.8284 8.5 15 8.5C14.1716 8.5 13.5 7.82843 13.5 7V6.5Z" stroke="currentColor"/>
+<path d="M2.31168 1.10608C2.46926 0.738397 2.8308 0.5 3.23082 0.5H14.7692C15.1692 0.5 15.5307 0.738397 15.6883 1.10608L17.4026 5.10608C17.6854 5.76595 17.2014 6.5 16.4835 6.5H1.51654C0.798623 6.5 0.314593 5.76595 0.597394 5.10608L2.31168 1.10608Z" stroke="currentColor"/>
+<g clip-path="url(#clip1_195_76)">
+</g>
+<rect x="3.5" y="10.5" width="4" height="5" rx="0.5" stroke="currentColor"/>
+<g clip-path="url(#clip2_195_76)">
+</g>
+<rect x="10.5" y="10.5" width="3" height="3" rx="0.5" stroke="currentColor"/>
+<defs>
+<clipPath id="clip0_195_76">
+<rect x="1" y="6" width="16" height="10" rx="1" fill="white"/>
+</clipPath>
+<clipPath id="clip1_195_76">
+<rect x="3" y="10" width="5" height="6" rx="1" fill="white"/>
+</clipPath>
+<clipPath id="clip2_195_76">
+<rect x="10" y="10" width="4" height="4" rx="1" fill="white"/>
+</clipPath>
+</defs>
+</svg>
