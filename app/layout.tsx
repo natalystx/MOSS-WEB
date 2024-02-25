@@ -25,7 +25,7 @@ export default function RootLayout({
           "w-screen overflow-x-hidden min-h-screen"
         )}
       >
-        <Navbar className="sticky top-0 left-0 z">
+        <Navbar className="sticky top-0 left-0 z-50">
           <PromoBanner />
         </Navbar>
         <div>{children}</div>
